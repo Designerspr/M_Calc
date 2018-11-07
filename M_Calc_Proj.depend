@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1514377417 source:h:\m_calc\m_calc_project\m_calc_proj\main.cpp
+	"ReadingS.h"
+
+1514345272 h:\m_calc\m_calc_project\m_calc_proj\include\readings.h
+	<string>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sstream>
+	<fstream>
+	<iomanip>
+
+1514646114 source:h:\m_calc\m_calc_project\m_calc_proj\src\readings.cpp
+	"ReadingS.h"
+
+1514278446 source:g:\m_calc\m_calc_project\m_calc_proj\main.cpp
+	"ReadingS.h"
+
+1514345272 g:\m_calc\m_calc_project\m_calc_proj\include\readings.h
+	<string>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sstream>
+	<fstream>
+	<iomanip>
+
+1514344495 source:g:\m_calc\m_calc_project\m_calc_proj\src\readings.cpp
+	"ReadingS.h"
+
